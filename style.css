@@ -1,0 +1,36 @@
+body{
+  background-color: #f5f5f0;
+}
+header{
+  background-color: black;
+  color: white;
+  height: 50px;
+  width: 100%;
+}
+ul{
+  list-style: none;
+  position:absolute;
+  font-size: 18px;
+}
+li{
+  display: inline;
+  padding: 10px;
+}
+a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+p{
+  column-fill: auto;
+  column-width: 300px;
+  column-gap: 10px;
+  column-rule: 3px solid black;
+}
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 10px;
+  height:30px;
+}
